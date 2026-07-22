@@ -1,0 +1,30 @@
+
+
+
+body{
+    margin:0;
+    font-family:Arial, sans-serif;
+    background-image:url("college.jpeg");
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position:center;
+    background-attachment:fixed;
+}
+
+
+.contact{
+    width:70%;
+    margin:40px auto;
+    padding:20px;
+    background-color:rgba(255,255,255,0.9);
+    border-radius:10px;
+    box-shadow:0 0 10px gray;
+}
+
+.contact h2{
+    text-align:center;
+    color:#003366;
+}
+
+
+
